@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5981d70c-d131-417c-91f3-8dd031abb2a6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Examples.jsx" afterPath="$PROJECT_DIR$/app/components/Examples.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Nav.jsx" afterPath="$PROJECT_DIR$/app/components/Nav.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Weather.jsx" afterPath="$PROJECT_DIR$/app/components/Weather.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/errorModal.jsx" afterPath="$PROJECT_DIR$/app/components/errorModal.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bundle.js" afterPath="$PROJECT_DIR$/public/bundle.js" />
     </list>
     <ignored path="HelloReact.iws" />
@@ -70,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Weather.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Weather.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/Weather.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
               <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errorModal.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/components/errorModal.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -135,7 +143,6 @@
         <option value="$PROJECT_DIR$/app/components/Main.jsx" />
         <option value="$PROJECT_DIR$/app/api/openWeatherMap.jsx" />
         <option value="$PROJECT_DIR$/app/components/WeatherMessage.jsx" />
-        <option value="$PROJECT_DIR$/app/components/errorModal.jsx" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/app/components/WeatherForm.jsx" />
         <option value="$PROJECT_DIR$/app/components/About.jsx" />
@@ -145,6 +152,7 @@
         <option value="$PROJECT_DIR$/app/components/Examples.jsx" />
         <option value="$PROJECT_DIR$/app/components/Nav.jsx" />
         <option value="$PROJECT_DIR$/app/components/Weather.jsx" />
+        <option value="$PROJECT_DIR$/app/components/errorModal.jsx" />
       </list>
     </option>
   </component>
@@ -296,12 +304,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477283128822</updated>
       <workItem from="1477283131100" duration="11423000" />
-      <workItem from="1477368847835" duration="27175000" />
+      <workItem from="1477368847835" duration="27823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38598000" />
+    <option name="totallyTimeSpent" value="39246000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,14 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/errorModal.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -508,6 +508,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/errorModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
           <folding />
         </state>
       </provider>
